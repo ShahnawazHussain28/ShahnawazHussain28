@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shahnawaz Hussain
-### Web and game developer
+### Web, App and game developer
 
-> My journey was started out of curiosity. Got admission into BTECH in Computer Science. Working in a startup Gauge RO. Now I am creating awesome stuffs.
+> My journey was started out of curiosity. Got admission into BTech in Computer Science. Working at a startup Gauge RO and VTAKU. Now I am creating awesome stuff.
 
 
 - 🌍  I'm based in Kolkata, India
